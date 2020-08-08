@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BCBAAB4-E11D-4FFC-A3FD-F9AC4E634B17"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoList2.0/TodoDetailTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "TodoDetailTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - e14c56689fdf87c4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.__deallocating_deinit"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - 309d7b93dbd249f1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; TodoList2_0.TodoDetailTableViewController"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - ca40018a79c10b94"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.init(style: __C.UITableViewStyle) -&gt; TodoList2_0.TodoDetailTableViewController"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - b201c71e3ce8b229"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TodoList2_0.TodoDetailTableViewController"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - 7fa9fb0f794ea542"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TodoList2_0.TodoDetailTableViewController"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "310">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - 4d90401f20d232b5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TodoList2_0.TodoDetailTableViewController&gt;"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F6A984E7-C34F-40CB-8D8C-025B3572C67B - 174b35f0a9138dba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoList2_0.TodoDetailTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TodoList2_0.TodoDetailTableViewController&gt;"
+                  moduleName = "TodoList2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Developer/NeobStudyPlanProjects/TodoList2.0/TodoList2.0/TodoDetailTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "267">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
